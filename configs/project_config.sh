@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Project Information
-export PROJECT_DIR="/Users/hieuxuanleu/Desktop/FinanceTracker"
-export PROJECT_NAME="Spendly"
-export BUILD_CONFIGURATION="Release"
+export PROJECT_DIR=""
+export PROJECT_NAME=""
+export BUILD_CONFIGURATION=""
 export SCHEME_NAME="$PROJECT_NAME"
 
 # Build Settings
